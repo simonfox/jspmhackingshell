@@ -3,6 +3,11 @@ System.config({
     "*": "*.js",
     "jspmhackingshell/*": "src/*.js",
     "github:*": "jspm_packages/github/*.js"
+  },
+  "bundles": {
+    "jspmhackingshare": [
+      "github:simonfox/jspmhackingshared@0.0.2"
+    ]
   }
 });
 
