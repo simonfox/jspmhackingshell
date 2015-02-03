@@ -1,0 +1,11 @@
+{
+  "jspm": {
+    "name": "jspmhackingshell",
+    "directories": {
+      "lib": "src"
+    },
+    "dependencies": {
+      "jspmhackingshared": "github:simonfox/jspmhackingshared@0.0.2"
+    }
+  }
+}
