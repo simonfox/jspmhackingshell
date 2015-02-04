@@ -5,7 +5,7 @@
       "lib": "src"
     },
     "dependencies": {
-      "jspmhackingshared": "github:simonfox/jspmhackingshared@0.0.2"
+      "shared": "github:simonfox/jspmhackingshared@0.0.9"
     }
   }
 }
